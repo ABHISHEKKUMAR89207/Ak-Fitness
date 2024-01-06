@@ -22,7 +22,7 @@
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-<img src="gitimg/1.jpg" width="200">
+<img src="gitimg/1(1).jpg" width="200">
     <img src="gitimg/2.jpg" width="200">
     <img src="gitimg/3.jpg" width="200">
     <img src="gitimg/4.jpg" width="200">
@@ -33,7 +33,7 @@
     <img src="gitimg/9.jpg" width="200">
     <img src="gitimg/10.jpg" width="200">
     <img src="gitimg/11.jpg" width="200">
-    <img src="gitimg/12.jpg" width="200">
+    <img src="gitimg/12.jpg" width="200"
     <img src="gitimg/13.jpg" width="200">
     <img src="gitimg/14.jpg" width="200">
     <img src="gitimg/15.jpg" width="200">
