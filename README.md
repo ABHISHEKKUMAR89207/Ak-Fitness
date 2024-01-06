@@ -8,16 +8,10 @@ AK Fitness is a Flutter project designed to provide a sleek and user-friendly in
 
 Include screenshots or GIFs showcasing different screens and features of your AK Fitness app.
 
-![Image 1](./gitimg/1%20(1).jpg)
-![Image 2](./gitimg/1%20(2).jpg)
-![Image 3](./gitimg/1%20(3).jpg)
-![Image 4](./gitimg/1%20(4).jpg)
-![Image 5](./gitimg/1%20(5).jpg)
-![Image 6](./gitimg/1%20(6).jpg)
-![Image 7](./gitimg/1%20(7).jpg)
-![Image 8](./gitimg/1%20(8).jpg)
-![Image 9](./gitimg/1%20(9).jpg)
-![Image 10](./gitimg/1%20(10).jpg)
+| ![Image 1](./gitimg/1%20(1).jpg) | ![Image 2](./gitimg/1%20(2).jpg) | ![Image 3](./gitimg/1%20(3).jpg) | ![Image 4](./gitimg/1%20(4).jpg) |
+| -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
+| ![Image 5](./gitimg/1%20(5).jpg) | ![Image 6](./gitimg/1%20(6).jpg) | ![Image 7](./gitimg/1%20(7).jpg) | ![Image 8](./gitimg/1%20(8).jpg) |
+| ![Image 9](./gitimg/1%20(9).jpg) | ![Image 10](./gitimg/1%20(10).jpg)|                                  |                                  |
 
 ## Features
 
